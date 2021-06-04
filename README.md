@@ -16,8 +16,8 @@ Complete Ark Funds analysis which creates a network graph of all the ark funds. 
 
 ### Medium Article
 
-![Network Graph of an ETF](https://towardsdatascience.com/network-graph-of-etf-ark-funds-4f9242f19702)
+[Network Graph of an ETF](https://towardsdatascience.com/network-graph-of-etf-ark-funds-4f9242f19702)
 
 ### Newsletter Subscribe
 
-![Newsletter subscribe](https://codesprout.substack.com/welcome)
+[Newsletter subscribe](https://codesprout.substack.com/welcome)
