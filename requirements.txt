@@ -1,0 +1,9 @@
+bs4
+html5lib
+pyvis
+pandas
+networkx
+tabulate
+matplotlib
+google-api-python-client==1.6.2
+finviz

@@ -1,0 +1,220 @@
+No.,Ticker,Company,Sector,Industry,Country,Market Cap,P/E,Price,Change,Volume
+1,ABBV,AbbVie Inc.,Healthcare,Drug Manufacturers - General,USA,196.65B,39.62,112.21,0.00%,0
+2,ACCD,"Accolade, Inc.",Healthcare,Health Information Services,USA,2.97B,-,50.08,0.00%,0
+3,ACIC,Atlas Crest Investment Corp.,Financial,Shell Companies,USA,618.14M,-,9.93,0.00%,0
+4,ADPT,Adaptive Biotechnologies Corporation,Healthcare,Biotechnology,USA,5.00B,-,35.61,0.00%,0
+5,ADSK,"Autodesk, Inc.",Technology,Software - Application,USA,60.57B,46.99,274.47,0.00%,0
+6,AIR,AAR Corp.,Industrials,Aerospace & Defense,USA,1.45B,89.57,41.29,0.00%,0
+7,AJRD,"Aerojet Rocketdyne Holdings, Inc.",Industrials,Aerospace & Defense,USA,3.88B,32.12,48.59,0.00%,0
+8,ALGN,"Align Technology, Inc.",Healthcare,Medical Devices,USA,45.60B,98.58,566.96,0.00%,0
+9,ALLT,Allot Ltd.,Technology,Communication Equipment,Israel,653.11M,-,18.46,0.00%,0
+10,ALTR,Altair Engineering Inc.,Technology,Software - Infrastructure,USA,4.95B,-,65.85,0.00%,0
+11,AME,"AMETEK, Inc.",Industrials,Specialty Industrial Machinery,USA,31.43B,39.07,136.83,0.00%,0
+12,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,USA,1610.81B,60.65,3187.01,0.00%,0
+13,ANSS,"ANSYS, Inc.",Technology,Software - Application,USA,28.60B,62.58,329.30,0.00%,0
+14,AONE,one,Financial,Shell Companies,USA,265.83M,-,10.02,0.00%,0
+15,AQB,"AquaBounty Technologies, Inc.",Consumer Defensive,Farm Products,USA,391.28M,-,5.55,0.00%,0
+16,ARCT,Arcturus Therapeutics Holdings Inc.,Healthcare,Biotechnology,USA,806.53M,-,30.69,0.00%,0
+17,ARD,Ardagh Group S.A.,Consumer Cyclical,Packaging & Containers,Luxembourg,6.03B,-,25.57,0.00%,0
+18,ARNC,Arconic Corporation,Industrials,Metal Fabrication,USA,4.05B,-,37.09,0.00%,0
+19,ATI,Allegheny Technologies Incorporated,Industrials,Metal Fabrication,USA,3.07B,-,23.80,0.00%,0
+20,AUDC,AudioCodes Ltd.,Technology,Communication Equipment,Israel,1.07B,34.68,32.91,0.00%,0
+21,AVAV,"AeroVironment, Inc.",Industrials,Aerospace & Defense,USA,2.71B,87.73,109.40,0.00%,0
+22,BA,The Boeing Company,Industrials,Aerospace & Defense,USA,148.57B,-,250.32,0.00%,0
+23,BABA,Alibaba Group Holding Limited,Consumer Cyclical,Internet Retail,China,585.07B,25.34,217.04,0.00%,0
+24,BEAM,Beam Therapeutics Inc.,Healthcare,Biotechnology,USA,5.10B,-,79.78,0.00%,0
+25,BEKE,KE Holdings Inc.,Real Estate,Real Estate Services,China,53.59B,-,46.25,0.00%,0
+26,BFLY,"Butterfly Network, Inc.",Healthcare,Medical Devices,USA,2.36B,-,12.67,0.00%,0
+27,BIDU,"Baidu, Inc.",Communication Services,Internet Content & Information,China,66.67B,8.73,189.97,0.00%,0
+28,BILL,"Bill.com Holdings, Inc.",Technology,Software - Application,USA,12.06B,-,146.39,0.00%,0
+29,BLDE,"Blade Air Mobility, Inc.",Industrials,Airports & Air Services,USA,757.62M,2745.00,10.98,0.00%,0
+30,BLI,"Berkeley Lights, Inc.",Healthcare,Biotechnology,USA,2.79B,-,40.42,0.00%,0
+31,BMY,Bristol-Myers Squibb Company,Healthcare,Drug Manufacturers - General,USA,144.67B,-,64.80,0.00%,0
+32,CAMT,Camtek Ltd.,Technology,Semiconductor Equipment & Materials,Israel,1.54B,47.95,36.63,0.00%,0
+33,CAT,Caterpillar Inc.,Industrials,Farm & Heavy Construction Machinery,USA,133.68B,39.91,243.84,0.00%,0
+34,CDNA,"CareDx, Inc",Healthcare,Diagnostics & Research,USA,4.21B,-,80.01,0.00%,0
+35,CDXS,"Codexis, Inc.",Healthcare,Biotechnology,USA,1.27B,-,19.87,0.00%,0
+36,CERS,Cerus Corporation,Healthcare,Biotechnology,USA,914.83M,-,5.41,0.00%,0
+37,CGEN,Compugen Ltd.,Healthcare,Biotechnology,Israel,632.61M,-,7.35,0.00%,0
+38,CHKP,Check Point Software Technologies Ltd.,Technology,Software - Application,Israel,15.87B,19.27,117.81,0.00%,0
+39,CLLS,Cellectis S.A.,Healthcare,Biotechnology,France,626.24M,-,14.36,0.00%,0
+40,CMLF,"CM Life Sciences, Inc.",Financial,Shell Companies,USA,665.01M,-,11.71,0.00%,0
+41,COIN,"Coinbase Global, Inc.",Technology,Software - Application,USA,50.93B,99.94,233.66,0.00%,0
+42,CRNT,Ceragon Networks Ltd.,Technology,Communication Equipment,Israel,301.96M,-,3.55,0.00%,0
+43,CRS,Carpenter Technology Corporation,Industrials,Metal Fabrication,USA,2.16B,-,43.88,0.00%,0
+44,CRSP,CRISPR Therapeutics AG,Healthcare,Biotechnology,Switzerland,8.34B,-,109.83,0.00%,0
+45,CSTL,"Castle Biosciences, Inc.",Healthcare,Diagnostics & Research,USA,1.47B,-,59.42,0.00%,0
+46,CYBR,CyberArk Software Ltd.,Technology,Software - Infrastructure,Israel,4.94B,-,123.25,0.00%,0
+47,DD,"DuPont de Nemours, Inc.",Basic Materials,Chemicals,USA,45.50B,-,85.37,0.00%,0
+48,DDD,3D Systems Corporation,Technology,Computer Hardware,USA,3.97B,-,30.24,0.00%,0
+49,DE,Deere & Company,Industrials,Farm & Heavy Construction Machinery,USA,112.84B,24.74,358.91,0.00%,0
+50,DIS,The Walt Disney Company,Communication Services,Entertainment,USA,320.92B,-,176.24,0.00%,0
+51,DKNG,DraftKings Inc.,Consumer Cyclical,Gambling,USA,20.11B,-,49.71,0.00%,0
+52,DM,"Desktop Metal, Inc.",Technology,Computer Hardware,USA,3.83B,-,14.59,0.00%,0
+53,DOCU,"DocuSign, Inc.",Technology,Software - Application,USA,37.47B,-,194.75,0.00%,0
+54,DRIO,DarioHealth Corp.,Healthcare,Diagnostics & Research,USA,294.49M,-,18.51,0.00%,0
+55,DRNA,"Dicerna Pharmaceuticals, Inc.",Healthcare,Biotechnology,USA,2.26B,-,30.47,0.00%,0
+56,DSM,"BNY Mellon Strategic Municipal Bond Fund, Inc.",Financial,Closed-End Fund - Debt,USA,405.75M,27.37,8.21,0.00%,0
+57,EDIT,"Editas Medicine, Inc.",Healthcare,Biotechnology,USA,2.31B,-,33.36,0.00%,0
+58,EMN,Eastman Chemical Company,Basic Materials,Chemicals,USA,17.57B,35.78,128.98,0.00%,0
+59,ENLV,Enlivex Therapeutics Ltd.,Healthcare,Biotechnology,Israel,173.44M,-,9.63,0.00%,0
+60,ESLT,Elbit Systems Ltd.,Industrials,Aerospace & Defense,Israel,5.75B,23.32,130.03,0.00%,0
+61,ETSY,"Etsy, Inc.",Consumer Cyclical,Internet Retail,USA,21.32B,48.00,165.74,0.00%,0
+62,EVGN,Evogene Ltd.,Healthcare,Biotechnology,Israel,135.01M,-,3.40,0.00%,0
+63,EVK,"Ever-Glory International Group, Inc.",Consumer Cyclical,Apparel Manufacturing,China,33.00M,6.86,2.23,0.00%,0
+64,EXAS,Exact Sciences Corporation,Healthcare,Diagnostics & Research,USA,18.62B,-,107.91,0.00%,0
+65,FARO,"FARO Technologies, Inc.",Technology,Scientific & Technical Instruments,USA,1.35B,116.21,73.91,0.00%,0
+66,FATE,"Fate Therapeutics, Inc.",Healthcare,Biotechnology,USA,6.30B,-,67.25,0.00%,0
+67,FB,"Facebook, Inc.",Communication Services,Internet Content & Information,USA,935.78B,27.93,326.04,0.00%,0
+68,FROG,JFrog Ltd.,Technology,Software - Application,USA,3.87B,-,43.28,0.00%,0
+69,FVRR,Fiverr International Ltd.,Consumer Cyclical,Internet Retail,Israel,6.80B,-,197.54,0.00%,0
+70,GE,General Electric Company,Industrials,Specialty Industrial Machinery,USA,126.24B,-,14.09,0.00%,0
+71,GH,"Guardant Health, Inc.",Healthcare,Diagnostics & Research,USA,11.94B,-,117.90,0.00%,0
+72,GILT,Gilat Satellite Networks Ltd.,Technology,Communication Equipment,Israel,581.38M,13.86,10.31,0.00%,0
+73,GMDA,Gamida Cell Ltd.,Healthcare,Biotechnology,Israel,355.70M,-,6.30,0.00%,0
+74,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,USA,1650.68B,32.04,2404.61,0.00%,0
+75,GRMN,Garmin Ltd.,Technology,Scientific & Technical Instruments,Switzerland,27.35B,26.00,142.22,0.00%,0
+76,HDB,HDFC Bank Limited,Financial,Banks - Regional,India,140.28B,196.85,76.77,0.00%,0
+77,HEI,HEICO Corporation,Industrials,Aerospace & Defense,USA,18.65B,77.01,144.39,0.00%,0
+78,HON,Honeywell International Inc.,Industrials,Specialty Industrial Machinery,USA,159.44B,35.08,229.20,0.00%,0
+79,HPQ,HP Inc.,Technology,Computer Hardware,USA,40.97B,10.62,29.93,0.00%,0
+80,HUYA,HUYA Inc.,Communication Services,Entertainment,China,3.49B,25.59,15.02,0.00%,0
+81,HXL,Hexcel Corporation,Industrials,Aerospace & Defense,USA,5.05B,-,59.71,0.00%,0
+82,ICE,"Intercontinental Exchange, Inc.",Financial,Financial Data & Stock Exchanges,USA,62.33B,29.87,111.60,0.00%,0
+83,INCY,Incyte Corporation,Healthcare,Biotechnology,USA,17.99B,38.17,82.90,0.00%,0
+84,INMD,InMode Ltd.,Healthcare,Medical Devices,Israel,3.13B,36.40,81.76,0.00%,0
+85,INTU,Intuit Inc.,Technology,Software - Application,USA,121.16B,57.69,450.56,0.00%,0
+86,IONS,"Ionis Pharmaceuticals, Inc.",Healthcare,Biotechnology,USA,4.84B,-,34.72,0.00%,0
+87,IOVA,"Iovance Biotherapeutics, Inc.",Healthcare,Biotechnology,USA,2.69B,-,17.42,0.00%,0
+88,IRDM,Iridium Communications Inc.,Communication Services,Telecom Services,USA,4.88B,-,36.99,0.00%,0
+89,ISRG,"Intuitive Surgical, Inc.",Healthcare,Medical Instruments & Supplies,USA,95.80B,84.20,816.65,0.00%,0
+90,ITMR,Itamar Medical Ltd.,Healthcare,Medical Devices,Israel,311.35M,-,19.00,0.00%,0
+91,ITRN,Ituran Location and Control Ltd.,Technology,Communication Equipment,Israel,567.92M,31.32,24.27,0.00%,0
+92,JD,"JD.com, Inc.",Consumer Cyclical,Internet Retail,China,117.12B,14.77,75.52,0.00%,0
+93,KALU,Kaiser Aluminum Corporation,Basic Materials,Aluminum,USA,2.13B,511.51,132.48,0.00%,0
+94,KMDA,Kamada Ltd.,Healthcare,Drug Manufacturers - Specialty & Generic,Israel,264.45M,15.55,5.91,0.00%,0
+95,KODK,Eastman Kodak Company,Industrials,Specialty Business Services,USA,659.39M,-,8.06,0.00%,0
+96,KRNT,Kornit Digital Ltd.,Industrials,Specialty Industrial Machinery,Israel,5.29B,533.33,115.20,0.00%,0
+97,KTOS,"Kratos Defense & Security Solutions, Inc.",Industrials,Aerospace & Defense,USA,3.18B,39.67,25.63,0.00%,0
+98,LC,LendingClub Corporation,Financial,Credit Services,USA,1.56B,-,16.09,0.00%,0
+99,LECO,"Lincoln Electric Holdings, Inc.",Industrials,Tools & Accessories,USA,7.76B,34.80,129.92,0.00%,0
+100,LHX,"L3Harris Technologies, Inc.",Industrials,Aerospace & Defense,USA,45.26B,34.12,219.94,0.00%,0
+101,LI,Li Auto Inc.,Consumer Cyclical,Auto Manufacturers,China,22.92B,-,24.96,0.00%,0
+102,LMT,Lockheed Martin Corporation,Industrials,Aerospace & Defense,USA,109.12B,15.51,387.35,0.00%,0
+103,MASS,908 Devices Inc.,Healthcare,Medical Devices,USA,1.11B,-,42.63,0.00%,0
+104,MCRB,"Seres Therapeutics, Inc.",Healthcare,Biotechnology,USA,1.72B,-,18.46,0.00%,0
+105,MDT,Medtronic plc,Healthcare,Medical Devices,Ireland,164.02B,46.25,123.07,0.00%,0
+106,MELI,"MercadoLibre, Inc.",Consumer Cyclical,Internet Retail,Argentina,65.84B,-,1324.15,0.00%,0
+107,MGA,Magna International Inc.,Consumer Cyclical,Auto Parts,Canada,30.30B,27.83,101.92,0.00%,0
+108,MGIC,Magic Software Enterprises Ltd.,Technology,Software - Application,Israel,789.73M,29.00,15.89,0.00%,0
+109,MMM,3M Company,Industrials,Specialty Industrial Machinery,USA,118.18B,20.79,203.67,0.00%,0
+110,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,USA,1847.84B,33.44,245.71,0.00%,0
+111,MTLS,Materialise NV,Technology,Software - Application,Belgium,1.50B,-,27.23,0.00%,0
+112,MTRX,Matrix Service Company,Energy,Oil & Gas Equipment & Services,USA,297.45M,-,11.31,0.00%,0
+113,NET,"Cloudflare, Inc.",Technology,Software - Infrastructure,USA,25.68B,-,81.92,0.00%,0
+114,NFLX,"Netflix, Inc.",Communication Services,Entertainment,USA,217.47B,60.67,489.43,0.00%,0
+115,NICE,NICE Ltd.,Technology,Software - Application,Israel,13.65B,70.14,214.35,0.00%,0
+116,NIU,Niu Technologies,Consumer Cyclical,Auto Manufacturers,China,2.54B,101.03,33.44,0.00%,0
+117,NNDM,Nano Dimension Ltd.,Technology,Computer Hardware,Israel,1.88B,-,7.27,0.00%,0
+118,NNOX,Nano-X Imaging Ltd.,Healthcare,Medical Devices,Israel,1.36B,-,27.46,0.00%,0
+119,NSTG,"NanoString Technologies, Inc.",Healthcare,Biotechnology,USA,2.32B,-,52.59,0.00%,0
+120,NTLA,"Intellia Therapeutics, Inc.",Healthcare,Biotechnology,USA,4.67B,-,71.51,0.00%,0
+121,NUVA,"NuVasive, Inc.",Healthcare,Medical Devices,USA,3.39B,-,65.46,0.00%,0
+122,NVDA,NVIDIA Corporation,Technology,Semiconductors,USA,403.19B,80.44,678.79,0.00%,0
+123,NVMI,Nova Measuring Instruments Ltd.,Technology,Semiconductor Equipment & Materials,Israel,2.74B,53.27,98.60,0.00%,0
+124,NVS,Novartis AG,Healthcare,Drug Manufacturers - General,Switzerland,220.87B,25.69,89.31,0.00%,0
+125,NVTA,Invitae Corporation,Healthcare,Diagnostics & Research,USA,5.72B,-,27.02,0.00%,0
+126,NXPI,NXP Semiconductors N.V.,Technology,Semiconductors,Netherlands,55.04B,139.22,200.75,0.00%,0
+127,OKTA,"Okta, Inc.",Technology,Software - Infrastructure,USA,26.35B,-,210.72,0.00%,0
+128,ONE,OneSmart International Education Group Limited,Consumer Defensive,Education & Training Services,China,269.14M,-,1.60,0.00%,0
+129,ONEM,"1Life Healthcare, Inc.",Healthcare,Health Information Services,USA,4.75B,-,36.31,0.00%,0
+130,ONVO,"Organovo Holdings, Inc.",Healthcare,Diagnostics & Research,USA,46.24M,-,7.85,0.00%,0
+131,OPEN,Opendoor Technologies Inc.,Real Estate,Real Estate Services,USA,9.54B,-,16.30,0.00%,0
+132,PACB,"Pacific Biosciences of California, Inc.",Healthcare,Diagnostics & Research,USA,5.06B,-,25.47,0.00%,0
+133,PATH,UiPath Inc.,Technology,Software - Infrastructure,USA,39.95B,-,73.52,0.00%,0
+134,PCAR,PACCAR Inc,Industrials,Farm & Heavy Construction Machinery,USA,32.23B,22.96,93.02,0.00%,0
+135,PD,"PagerDuty, Inc.",Technology,Software - Application,USA,3.44B,-,40.63,0.00%,0
+136,PDD,Pinduoduo Inc.,Consumer Cyclical,Internet Retail,China,160.26B,-,133.45,0.00%,0
+137,PERI,Perion Network Ltd.,Communication Services,Internet Content & Information,Israel,522.70M,41.92,15.97,0.00%,0
+138,PINS,"Pinterest, Inc.",Communication Services,Internet Content & Information,USA,39.26B,-,62.61,0.00%,0
+139,PLTR,Palantir Technologies Inc.,Technology,Software - Infrastructure,USA,43.86B,-,23.63,0.00%,0
+140,PRLB,"Proto Labs, Inc.",Industrials,Metal Fabrication,USA,2.51B,58.45,88.08,0.00%,0
+141,PRNT,The 3D Printing ETF,Financial,Exchange Traded Fund,USA,-,-,38.27,0.00%,0
+142,PSNL,"Personalis, Inc.",Healthcare,Biotechnology,USA,899.19M,-,20.69,0.00%,0
+143,PSTG,"Pure Storage, Inc.",Technology,Computer Hardware,USA,5.27B,-,18.57,0.00%,0
+144,PSTI,Pluristem Therapeutics Inc.,Healthcare,Biotechnology,Israel,115.90M,-,3.67,0.00%,0
+145,PTC,PTC Inc.,Technology,Software - Application,USA,15.02B,69.00,129.58,0.00%,0
+146,PTNR,Partner Communications Company Ltd.,Communication Services,Telecom Services,Israel,848.17M,227.50,4.55,0.00%,0
+147,PTON,"Peloton Interactive, Inc.",Consumer Cyclical,Leisure,USA,31.39B,154.11,103.10,0.00%,0
+148,PYPD,PolyPid Ltd.,Healthcare,Biotechnology,Israel,171.17M,-,9.40,0.00%,0
+149,PYPL,"PayPal Holdings, Inc.",Financial,Credit Services,USA,302.19B,58.74,257.79,0.00%,0
+150,PYR,PyroGenesis Canada Inc.,Industrials,Specialty Industrial Machinery,Canada,1.04B,-,6.34,0.00%,0
+151,RADA,RADA Electronic Industries Ltd.,Industrials,Aerospace & Defense,Israel,544.51M,55.40,11.19,0.00%,0
+152,RAVN,"Raven Industries, Inc.",Industrials,Specialty Industrial Machinery,USA,1.61B,66.05,44.52,0.00%,0
+153,RBLX,Roblox Corporation,Communication Services,Electronic Gaming & Multimedia,USA,57.16B,-,96.50,0.00%,0
+154,RDHL,RedHill Biopharma Ltd.,Healthcare,Drug Manufacturers - Specialty & Generic,Israel,319.42M,-,6.95,0.00%,0
+155,RDWR,Radware Ltd.,Technology,Software - Infrastructure,Israel,1.32B,124.74,28.69,0.00%,0
+156,REGN,"Regeneron Pharmaceuticals, Inc.",Healthcare,Biotechnology,USA,53.10B,14.31,505.66,0.00%,0
+157,ROBO,Robo Global Robotics and Automation Index ETF,Financial,Exchange Traded Fund,USA,-,-,63.37,0.00%,0
+158,ROKU,"Roku, Inc.",Communication Services,Entertainment,USA,43.16B,397.30,323.80,0.00%,0
+159,RPTX,Repare Therapeutics Inc.,Healthcare,Biotechnology,Canada,1.17B,-,31.48,0.00%,0
+160,RTP,Reinvent Technology Partners,Financial,Shell Companies,USA,862.50M,-,10.00,0.00%,0
+161,RXRX,"Recursion Pharmaceuticals, Inc.",Healthcare,Biotechnology,USA,4.59B,-,28.42,0.00%,0
+162,SAND,Sandstorm Gold Ltd.,Basic Materials,Gold,Canada,1.63B,56.00,8.40,0.00%,0
+163,SCHW,The Charles Schwab Corporation,Financial,Capital Markets,USA,143.38B,33.72,76.01,0.00%,0
+164,SDGR,"Schrodinger, Inc.",Healthcare,Health Information Services,USA,5.07B,-,70.89,0.00%,0
+165,SE,Sea Limited,Communication Services,Electronic Gaming & Multimedia,Singapore,134.71B,-,249.60,0.00%,0
+166,SEDG,"SolarEdge Technologies, Inc.",Technology,Solar,Israel,12.33B,99.41,238.49,0.00%,0
+167,SEER,"Seer, Inc.",Healthcare,Biotechnology,USA,2.11B,-,33.21,0.00%,0
+168,SGFY,"Signify Health, Inc.",Healthcare,Health Information Services,USA,4.00B,-,24.50,0.00%,0
+169,SHOP,Shopify Inc.,Technology,Software - Application,Canada,148.84B,93.97,1199.00,0.00%,0
+170,SI,Silvergate Capital Corporation,Financial,Banks - Regional,USA,2.99B,66.44,111.56,0.00%,0
+171,SILC,Silicom Ltd.,Technology,Communication Equipment,Israel,286.04M,43.49,41.88,0.00%,0
+172,SKLZ,Skillz Inc.,Communication Services,Electronic Gaming & Multimedia,USA,8.58B,-,21.23,0.00%,0
+173,SNAP,Snap Inc.,Communication Services,Internet Content & Information,USA,90.76B,-,60.60,0.00%,0
+174,SNOW,Snowflake Inc.,Technology,Software - Application,USA,70.89B,-,238.43,0.00%,0
+175,SNPS,"Synopsys, Inc.",Technology,Software - Infrastructure,USA,38.28B,48.67,250.59,0.00%,0
+176,SPFR,Jaws Spitfire Acquisition Corporation,Financial,Shell Companies,USA,429.13M,-,10.01,0.00%,0
+177,SPNS,Sapiens International Corporation N.V.,Technology,Software - Application,Israel,1.49B,39.57,27.38,0.00%,0
+178,SPOT,Spotify Technology S.A.,Communication Services,Internet Content & Information,Luxembourg,43.93B,-,232.19,0.00%,0
+179,SPR,"Spirit AeroSystems Holdings, Inc.",Industrials,Aerospace & Defense,USA,5.36B,-,50.49,0.00%,0
+180,SQ,"Square, Inc.",Technology,Software - Infrastructure,USA,95.58B,347.18,211.43,0.00%,0
+181,SRPT,"Sarepta Therapeutics, Inc.",Healthcare,Biotechnology,USA,5.98B,-,73.76,0.00%,0
+182,SSYS,Stratasys Ltd.,Technology,Computer Hardware,USA,1.51B,-,23.11,0.00%,0
+183,STNE,StoneCo Ltd.,Technology,Software - Application,Cayman Islands,19.90B,116.50,63.84,0.00%,0
+184,SURF,"Surface Oncology, Inc.",Healthcare,Biotechnology,USA,374.72M,84.67,9.06,0.00%,0
+185,SYK,Stryker Corporation,Healthcare,Medical Devices,USA,93.79B,67.60,249.70,0.00%,0
+186,SYRS,"Syros Pharmaceuticals, Inc.",Healthcare,Biotechnology,USA,376.29M,-,5.99,0.00%,0
+187,TAK,Takeda Pharmaceutical Company Limited,Healthcare,Drug Manufacturers - Specialty & Generic,Japan,52.37B,31.58,16.61,0.00%,0
+188,TARO,Taro Pharmaceutical Industries Ltd.,Healthcare,Drug Manufacturers - Specialty & Generic,Israel,2.75B,-,71.32,0.00%,0
+189,TCS,"The Container Store Group, Inc.",Consumer Cyclical,Specialty Retail,USA,675.61M,11.19,12.99,0.00%,0
+190,TDOC,"Teladoc Health, Inc.",Healthcare,Health Information Services,USA,22.41B,-,146.59,0.00%,0
+191,TDY,Teledyne Technologies Incorporated,Technology,Scientific & Technical Instruments,USA,15.54B,39.56,421.36,0.00%,0
+192,TER,"Teradyne, Inc.",Technology,Semiconductor Equipment & Materials,USA,21.05B,29.15,128.32,0.00%,0
+193,TEVA,Teva Pharmaceutical Industries Limited,Healthcare,Drug Manufacturers - Specialty & Generic,Israel,11.87B,-,10.57,0.00%,0
+194,TRMB,Trimble Inc.,Technology,Scientific & Technical Instruments,USA,19.62B,44.56,77.85,0.00%,0
+195,TSEM,Tower Semiconductor Ltd.,Technology,Semiconductors,Israel,2.83B,30.67,26.38,0.00%,0
+196,TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,USA,551.83B,577.46,572.84,0.00%,0
+197,TSP,TuSimple Holdings Inc.,Industrials,Trucking,USA,7.95B,-,38.50,0.00%,0
+198,TTD,"The Trade Desk, Inc.",Technology,Software - Application,USA,26.86B,116.82,567.96,0.00%,0
+199,TWLO,Twilio Inc.,Communication Services,Internet Content & Information,USA,53.94B,-,309.83,0.00%,0
+200,TWOU,"2U, Inc.",Consumer Defensive,Education & Training Services,USA,2.62B,-,34.70,0.00%,0
+201,TWST,Twist Bioscience Corporation,Healthcare,Diagnostics & Research,USA,4.73B,-,96.12,0.00%,0
+202,TWTR,"Twitter, Inc.",Communication Services,Internet Content & Information,USA,45.56B,-,57.01,0.00%,0
+203,TXG,"10x Genomics, Inc.",Healthcare,Health Information Services,USA,18.58B,-,173.00,0.00%,0
+204,U,Unity Software Inc.,Technology,Software - Application,USA,26.38B,-,93.10,0.00%,0
+205,UCTT,"Ultra Clean Holdings, Inc.",Technology,Semiconductor Equipment & Materials,USA,2.44B,24.68,55.67,0.00%,0
+206,UPS,"United Parcel Service, Inc.",Industrials,Integrated Freight & Logistics,USA,182.99B,35.92,211.98,0.00%,0
+207,URGN,UroGen Pharma Ltd.,Healthcare,Biotechnology,USA,425.44M,-,18.33,0.00%,0
+208,VCYT,"Veracyte, Inc.",Healthcare,Biotechnology,USA,2.30B,-,33.90,0.00%,0
+209,VEEV,Veeva Systems Inc.,Healthcare,Health Information Services,USA,39.58B,108.17,285.14,0.00%,0
+210,VOE,Vanguard Mid-Cap Value Index Fund ETF Shares,Financial,Exchange Traded Fund,USA,-,-,145.16,0.00%,0
+211,VRTX,Vertex Pharmaceuticals Incorporated,Healthcare,Biotechnology,USA,54.31B,20.09,211.15,0.00%,0
+212,VUZI,Vuzix Corporation,Technology,Consumer Electronics,USA,1.30B,-,18.87,0.00%,0
+213,WDAY,"Workday, Inc.",Technology,Software - Application,USA,54.80B,-,221.24,0.00%,0
+214,WIX,Wix.com Ltd.,Technology,Software - Infrastructure,Israel,14.35B,-,254.95,0.00%,0
+215,XONE,The ExOne Company,Industrials,Specialty Industrial Machinery,USA,515.07M,-,21.89,0.00%,0
+216,XRX,Xerox Holdings Corporation,Technology,Information Technology Services,USA,4.71B,22.63,23.99,0.00%,0
+217,Z,"Zillow Group, Inc.",Communication Services,Internet Content & Information,USA,19.49B,-,108.43,0.00%,0
+218,ZM,"Zoom Video Communications, Inc.",Communication Services,Telecom Services,USA,92.49B,142.10,319.01,0.00%,0
+219,ZY,Zymergen Inc.,Basic Materials,Chemicals,USA,3.37B,-,34.45,0.00%,0
